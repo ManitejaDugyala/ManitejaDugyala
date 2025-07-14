@@ -1,6 +1,9 @@
 <div align="center">
   <h1>👋 Hi, I’m Maniteja Dugyala</h1>
-  <p>Frontend Developer passionate about building responsive web apps using clean UI and modern tech.</p>
+  <p>
+    I'm a Frontend Developer who loves building sleek and responsive web experiences. <br/>
+    Currently learning <strong>React</strong>, practicing <strong>DSA</strong>, and working on exciting <strong>MERN stack projects</strong>.
+  </p>
 </div>
 
 ---
@@ -110,4 +113,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManitejaDugyala&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
+<p align="center">
+  🚀 I'm always open to collaborating on exciting projects, solving meaningful problems, or simply connecting with like-minded developers.  
+  <br/>Let’s build something great together!
 </p>
