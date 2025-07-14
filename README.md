@@ -7,14 +7,9 @@
 
 ## 💻 Tech Stack
 
-### Languages  
-HTML5 • CSS3 • JavaScript • Java • SQL
-
-### Frameworks & Libraries  
-React.js • Tailwind CSS • Bootstrap
-
-### Tools & Platforms  
-Git • GitHub • Postman • Figma • Canva
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,react,tailwind,bootstrap,git,github,postman,figma,canva" />
+</p>
 
 ---
 
